@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Image</string>
+    <string name="pha_dong_thap">Hoàng hôn trên phà ở đồng tháp</string>
+    <string name="pha_dong_thap_title">Phà ở Đồng tháp, tháng 6 năm 2022</string>
+    <string name="cham_chim">Vườn quốc gia Chàm Chim</string>
+    <string name="cham_chim_title">Chàm Chim, Đồng Tháp, tháng 6 năm 2022</string>
+    <string name="chua_ba">Check in tại chùa bà </string>
+    <string name="chua_ba_title">Chùa bà, An Giang, tháng 6 năm 2022  </string>
+    <string name="chua_hang">Check in tại chùa hang </string>
+    <string name="chua_hang_title">Chùa hang, An Giang, tháng 6 năm 2022 </string>
+    <string name="song_ta_pa">Check in tại sông Tà Pạ</string>
+    <string name="song_ta_pa_title">Tà Pạ, An Giang, tháng 6 năm 2022</string>
+    <string name="tt_phu_yen">Trọng tài tại Phú Yên</string>
+    <string name="tt_phu_yen_title">Phú Yên, tháng 7 năm 2022</string>
+</resources>
